@@ -1,0 +1,77 @@
+[
+  {
+    "Day": "11/05/2023",
+    "TradeScan": [
+      {
+        "Ticker": "DIVISLAB",
+        "Price": 345,
+        "Impulse": "Green",
+        "Candle": "",
+        "ValueZone": "",
+        "ForceIndex": "",
+        "Sup-1": 345,
+        "Sup-2": 350
+      },
+      {
+        "Ticker": "EICHERMOT",
+        "DMI-Trend": "",
+        "MACD": -50,
+        "Signal": -25,
+        "Histogram": 5,
+        "Impulse": "Green",
+        "Candle": "",
+        "Res-1": 3450,
+        "Res-2": 3500
+      },
+      {
+        "Ticker": "HDFCBANK",
+        "DMI-Trend": "",
+        "MACD": -1,
+        "Signal": -2,
+        "Histogram": -5,
+        "Impulse": "Red",
+        "Candle": "",
+        "Res-1": 123,
+        "Res-2": 145
+      }
+    ]
+  },
+  {
+    "Day": "12/05/2023",
+    "TradeScan": [
+      {
+        "Ticker": "DIVISLAB",
+        "DMI-Trend": "",
+        "MACD": -49,
+        "Signal": -25,
+        "Histogram": 5,
+        "Impulse": "Green",
+        "Candle": "",
+        "Res-1": 355,
+        "Res-2": 360
+      },
+      {
+        "Ticker": "EICHERMOT",
+        "DMI-Trend": "",
+        "MACD": -50,
+        "Signal": -25,
+        "Histogram": 5,
+        "Impulse": "Green",
+        "Candle": "",
+        "Res-1": 3460,
+        "Res-2": 3550
+      },
+      {
+        "Ticker": "HDFCBANK",
+        "DMI-Trend": "",
+        "MACD": -1,
+        "Signal": -2,
+        "Histogram": -5,
+        "Impulse": "Red",
+        "Candle": "",
+        "Res-1": 143,
+        "Res-2": 165
+      }
+    ]
+  }
+]

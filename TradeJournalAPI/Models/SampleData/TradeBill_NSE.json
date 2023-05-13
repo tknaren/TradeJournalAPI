@@ -1,0 +1,68 @@
+[
+  {
+    "trade": {
+      "ticker": "DIVIS",
+      "direction": "LONG",
+      "strategy": "",
+      "earnings": "",
+      "date": ""
+    },
+    "apgar": {
+      "parameters": {
+        "weeklyImp": {
+          "zero": "Red",
+          "one": "Green",
+          "two": "Blue (after Red)"
+        },
+        "dailyImp": {
+          "zero": "Red",
+          "one": "Green",
+          "two": "Blue (after Red)"
+        },
+        "dailyPrice": {
+          "zero": "Above Value",
+          "one": "In Value Zone",
+          "two": "Below Value"
+        },
+        "falseBreakout": {
+          "zero": "None",
+          "one": "In Place",
+          "two": "pos w/bullish diver"
+        },
+        "perfection": {
+          "zero": "neither time",
+          "one": "one timeframe",
+          "two": "both timeframes"
+        }
+      },
+      "score": [ 0, 1, 2, 2, 0 ],
+      "totalscore": 5
+    },
+    "tradeManagement": {
+      "accountSize": 100000,
+      "maxRisk%": 2,
+      "price": 123,
+      "stopsTargets": {
+        "softStop": 120,
+        "hardStop": 119,
+        "nearTarget": 15,
+        "farTarget": 17
+      },
+
+      "riskPerShare": 15,
+      "maxSharesToTrade": 30,
+      "Risk": 12,
+      "Reward": 15,
+      "RRRatio": "1:2",
+      "ATR+1": 15.3,
+      "ATR+2": 17,
+      "BreakEven": 14,
+      "Actions": {
+        "Filled": 1,
+        "StopEntered": 1,
+        "TargetEntered": 1,
+        "JournalEntered": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "weekEnding": "07/05/2023",
+    "tradeScan": [
+      {
+        "ticker": "DIVISLAB",
+        "price": 345,
+        "dmiTrend": "",
+        "macd": -49,
+        "signal": -25,
+        "histogram": 5,
+        "impulse": "Green",
+        "candle": "",
+        "srLevel": {
+          "s1": 10,
+          "s2": 11,
+          "s3": 12,
+          "r1": 14,
+          "r2": 15,
+          "r3": 16
+        }
+      },
+      {
+        "ticker": "EICHERMOT",
+        "price": 345,
+        "dmiTrend": "",
+        "macd": -49,
+        "signal": -25,
+        "histogram": 5,
+        "impulse": "Green",
+        "candle": "",
+        "srLevel": {
+          "s1": 10,
+          "s2": 11,
+          "s3": 12,
+          "r1": 14,
+          "r2": 15,
+          "r3": 16
+        }
+      },
+      {
+        "ticker": "HDFCBANK",
+        "price": 345,
+        "dmiTrend": "",
+        "macd": -49,
+        "signal": -25,
+        "histogram": 5,
+        "impulse": "Green",
+        "candle": "",
+        "srLevel": {
+          "s1": 10,
+          "s2": 11,
+          "s3": 12,
+          "r1": 14,
+          "r2": 15,
+          "r3": 16
+        }
+      }
+    ]
+  },
+  {
+    "weekEnding": "14/05/2023",
+    "tradeScan": [
+      {
+        "ticker": "DIVISLAB",
+        "price": 345,
+        "dmiTrend": "",
+        "macd": -49,
+        "signal": -25,
+        "histogram": 5,
+        "impulse": "Green",
+        "candle": "",
+        "srLevel": {
+          "s1": 10,
+          "s2": 11,
+          "s3": 12,
+          "r1": 14,
+          "r2": 15,
+          "r3": 16
+        }
+      },
+      {
+        "ticker": "EICHERMOT",
+        "price": 345,
+        "dmiTrend": "",
+        "macd": -49,
+        "signal": -25,
+        "histogram": 5,
+        "impulse": "Green",
+        "candle": "",
+        "srLevel": {
+          "s1": 10,
+          "s2": 11,
+          "s3": 12,
+          "r1": 14,
+          "r2": 15,
+          "r3": 16
+        }
+      },
+      {
+        "ticker": "HDFCBANK",
+        "price": 345,
+        "dmiTrend": "",
+        "macd": -49,
+        "signal": -25,
+        "histogram": 5,
+        "impulse": "Green",
+        "candle": "",
+        "srLevel": {
+          "s1": 10,
+          "s2": 11,
+          "s3": 12,
+          "r1": 14,
+          "r2": 15,
+          "r3": 16
+        }
+      }
+    ]
+  }
+]
